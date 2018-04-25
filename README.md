@@ -1,7 +1,7 @@
 # DungeonCrawlerRPG
 A text based, chess themed dungeon crawler RPG 
 TRAPPED IN THE CHESSBOARD
-A chess-themed dungeon crawler RPG by Hrishee S.
+A chess-themed dungeon crawler RPG 
 
 Brief description:
 
