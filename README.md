@@ -1,6 +1,9 @@
 # You Are Only A Pawn
 A text based, chess themed dungeon crawler RPG 
 
+[Project description](https://jimfix.github.io/csci121/assign/projects/project4/adventure.html)
+
+
 Brief description:
 
     This is a dungeon crawler RPG where the player is thrown into a 'chessboard' (really a castle) like map 
