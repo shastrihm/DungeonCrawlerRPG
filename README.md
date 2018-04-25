@@ -1,7 +1,5 @@
-# DungeonCrawlerRPG
+# You Are Only A Pawn
 A text based, chess themed dungeon crawler RPG 
-TRAPPED IN THE CHESSBOARD
-A chess-themed dungeon crawler RPG 
 
 Brief description:
 
